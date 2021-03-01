@@ -2,7 +2,7 @@
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Punker-Bhai&hide=ruby,perl&hide_border=true" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Punker-Bhai&" alt="Punker-Bhai" /></p>
 
--->
+
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -11,6 +11,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [![Punker-Bhai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Punker-Bhai)](https://github.com/Punker-Bhai/github-readme-stats)
 ![Punker-Bhai's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Punker-Bhai&layout=compact)

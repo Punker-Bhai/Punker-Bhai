@@ -1,16 +1,30 @@
 ### Hi there 👋, I Am Hackerspunk
-<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Punker-Bhai&hide=ruby,perl&hide_border=true" />
+<p align="center">
+<!--  <img alt="profile pic" width="195px" src="https://avatars1.githubusercontent.com/Punker-Bhai" /> -->
+<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Punker-Bhai&hide=ruby,perl&hide_border=true" /> -->
+
+<a href="https://">
+<img title="Welcome Note" src="" /></a>
+<img alt="Punker-Bhai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Punker-Bhai&show_icons=true&include_all_commits=true&hide_border=true"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Punker-Bhai&" alt="Punker-Bhai" /></p>
 
+- 🧑🏻‍🏫 I’m currently working very hard.
+- 📖 I’m currently learning `bash` and `python` 
+- 🕵️ I’m looking to collaborate with other content creators.
+- 💬 Join my [telegram](https://t.me/abhackerofficial) group
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <a href="https://github.com/abhackerofficial"><img title="abhackerofficial" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhackerofficial&layout=compact"></a>
+</p>
 
-[![Punker-Bhai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Punker-Bhai)](https://github.com/Punker-Bhai/github-readme-stats)
-![Punker-Bhai's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Punker-Bhai&layout=compact)
+<p align="center">
+<a href="https://github.com/abhackerofficial/Theme-Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhackerofficial&repo=Theme-Engine"></a>
+<a href="https://github.com/abhackerofficial/Login-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhackerofficial&repo=Login-page"></a>
+<a href="https://github.com/abhackerofficial/Termux-security"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhackerofficial&repo=Termux-security"></a>
+</p>
+
+<!--
+**abhackerofficial/abhackerofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+

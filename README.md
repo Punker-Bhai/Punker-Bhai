@@ -11,10 +11,10 @@
 - 🧑🏻‍🏫 I’m currently working very hard.
 - 📖 I’m currently learning `bash` and `python` 
 - 🕵️ I’m looking to collaborate with other content creators.
-- 💬 Join my [telegram](https://t.me/abhackerofficial) group
+- 💬 Follow Me on [Instagram](https://instagram.com/myquotes.hb)
 
 <p align="center">
-  <a href="https://github.com/abhackerofficial"><img title="abhackerofficial" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhackerofficial&layout=compact"></a>
+  <a href="https://github.com/Punker-Bhai"><img title="Punker-Bhai" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punker-Bhai&layout=compact"></a>
 </p>
 
 <p align="center">

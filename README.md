@@ -13,3 +13,4 @@
 - ⚡ Fun fact: ...
 -->
 [![Punker-Bhai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Punker-Bhai)](https://github.com/Punker-Bhai/github-readme-stats)
+![Punker-Bhai's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Punker-Bhai&layout=compact)

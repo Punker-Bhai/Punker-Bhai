@@ -1,7 +1,5 @@
 ### Hi there 👋
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Punker-Bhai&hide=ruby,perl&hide_border=true" /> -->
-
-<!--
 **P
 
 - 🔭 I’m currently working on 

@@ -10,7 +10,7 @@
 - 👨‍💻 Believe in HACKTIVISM 👽
 - 📖 I’m currently learning `bash` and `python` 
 - 🕵️ I’m looking to collaborate with other content creators.
-- 💬 Follow Me on [Instagram](https://instagram.com/myquotes.hb)
+- 💬 Follow Me on [Instagram] (https://instagram.com/myquotes.hb)
 
 <p align="center">
   <a href="https://github.com/Punker-Bhai"><img title="Punker-Bhai" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punker-Bhai&layout=compact"></a>
